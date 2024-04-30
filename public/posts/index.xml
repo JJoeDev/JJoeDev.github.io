@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on JJoe web</title>
+        <link>https://jjoedev.github.io/posts/</link>
+        <description>Recent content in Posts on JJoe web</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 30 Apr 2024 19:11:06 +0200</lastBuildDate>
+        <atom:link href="https://jjoedev.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Init</title>
+            <link>https://jjoedev.github.io/posts/init/</link>
+            <pubDate>Tue, 30 Apr 2024 19:11:06 +0200</pubDate>
+            
+            <guid>https://jjoedev.github.io/posts/init/</guid>
+            <description>Hello there This is my initial commit for a blog post on my site. Awesome I know.
+I switched to using Hugo for generating my site because I am a programmer at heart and I cannot make a site that looks good by only using HTML and CSS
+Anyways the initial post is going to be short as it is basically just here to be here :D
+Cya</description>
+            <content type="html"><![CDATA[<h2 id="hello-there">Hello there</h2>
+<p>This is my initial commit for a blog post on my site. Awesome I know.</p>
+<p>I switched to using Hugo for generating my site because I am a programmer at heart and I cannot make a site that looks good by only using HTML and CSS</p>
+<p>Anyways the initial post is going to be short as it is basically just here to be here :D</p>
+<p>Cya</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
