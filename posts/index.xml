@@ -5,8 +5,39 @@
         <description>Recent content in Posts on JJoe web</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 30 Apr 2024 19:11:06 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 00:01:37 +0200</lastBuildDate>
         <atom:link href="https://jjoedev.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Languages</title>
+            <link>https://jjoedev.github.io/posts/languages/</link>
+            <pubDate>Fri, 03 May 2024 00:01:37 +0200</pubDate>
+            
+            <guid>https://jjoedev.github.io/posts/languages/</guid>
+            <description>Programming language thoughts I feel like I am always looking for a different low level programming language alternative to C++, but always end up back at C++.
+I have been looking at Zig lang, but I didn&amp;rsquo;t really want to learn about their allocators, no good excuse really.
+Then I have been looking at Odin lang, but last time I was trying it their linux support wasn&amp;rsquo;t really there. The Arch package was outdated and didn&amp;rsquo;t come with their vendor directory.</description>
+            <content type="html"><![CDATA[<h2 id="programming-language-thoughts">Programming language thoughts</h2>
+<p>I feel like I am always looking for a different low level programming language alternative to C++, but always end up back at C++.</p>
+<p>I have been looking at Zig lang, but I didn&rsquo;t really want to learn about their allocators, no good excuse really.</p>
+<p>Then I have been looking at Odin lang, but last time I was trying it their linux support wasn&rsquo;t really there. The Arch package was outdated and didn&rsquo;t come with their vendor directory.
+Then they wanted me to compile it from source to get the latest version that included everything, and it was actually quite fun to try.</p>
+<p>I have also recently been looking at D lang again, but when they showed me this code, well, no&hellip; that just feels wrong.
+Here is what they showed me&hellip;</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-d" data-lang="d"><span style="display:flex;"><span><span style="color:#e6db74">&#34;Starting program&#34;</span><span style="color:#f92672">.</span><span style="color:#a6e22e">writeln</span><span style="color:#f92672">;</span>
+</span></span></code></pre></div><p>But I also read somewhere that D does have a garbage collector, but it can be turned off. Im not sure how I feel about having an optional GC.
+It could be awesome for testing stuff, but I also don&rsquo;t want to rely on it. And then there where these guys</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-D" data-lang="D"><span style="display:flex;"><span><span style="color:#a6e22e">@safe</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">@trusted</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">@system</span>
+</span></span></code></pre></div><p>Sure they could be awesome for more performance, But its just not the same. I have no idea how to describe it, it just isn&rsquo;t.</p>
+<p>So that is how I always end up back at C++, and every time I realize that I don&rsquo;t really need to change language because C++ does what I want it to do when I use it.
+Sure CMake is a pain to work with at times, and libraries are also a pain most of the time. But that is just C++, and I have learned to love the pain it can bring</p>
+<p><a href="https://dlang.org">D lang</a></p>
+<p><a href="https://odin-lang.org">Odin lang</a></p>
+<p><a href="https://ziglang.org">Zig lang</a></p>
+]]></content>
+        </item>
         
         <item>
             <title>Init</title>

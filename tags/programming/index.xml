@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on JJoe web</title>
+    <link>https://jjoedev.github.io/tags/programming/</link>
+    <description>Recent content in Programming on JJoe web</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 May 2024 00:01:37 +0200</lastBuildDate>
+    <atom:link href="https://jjoedev.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Languages</title>
+      <link>https://jjoedev.github.io/posts/languages/</link>
+      <pubDate>Fri, 03 May 2024 00:01:37 +0200</pubDate>
+      <guid>https://jjoedev.github.io/posts/languages/</guid>
+      <description>Programming language thoughts I feel like I am always looking for a different low level programming language alternative to C++, but always end up back at C++.&#xA;I have been looking at Zig lang, but I didn&amp;rsquo;t really want to learn about their allocators, no good excuse really.&#xA;Then I have been looking at Odin lang, but last time I was trying it their linux support wasn&amp;rsquo;t really there. The Arch package was outdated and didn&amp;rsquo;t come with their vendor directory.</description>
+    </item>
+  </channel>
+</rss>
